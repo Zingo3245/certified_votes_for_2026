@@ -1,0 +1,3 @@
+# South Carolina
+
+This folder is for processing certified results from the South Carolina election commission website [here](https://www.enr-scvotes.org/SC/127300/web.345435/#/summary). If done manually, download the detail XLS file. Both the script and notebook involve filling in the links and folder variables before use. Note: South Carolina certifies its total on 11/12 so this is on unofficial results as of the moment. Make sure to check back on 11/12 for official results.
