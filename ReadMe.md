@@ -1,0 +1,3 @@
+# Certified Votes for 2026
+
+This repo contains notebooks and scripts for processing and getting certified results from the secretary of state websites for various states in 2026. Raw data will not be posted and must be downloaded separately. More soon....
