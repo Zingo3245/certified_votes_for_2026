@@ -1,0 +1,3 @@
+# Michigan
+
+This one is pretty easy where the results and turnout files have a single line that throws of the tab delimited files. They can be downloaded [here for results](https://mvic.sos.state.mi.us/VoteHistory/GetElectionResultFile?electionId=707) and [here for turnout](https://mvic.sos.state.mi.us/VoteHistory/GetVoterTurnoutFile?electionId=707). Just remember to fill out the path variable in the script or the notebook. The main website is [here](https://mvic.sos.state.mi.us/votehistory/Index?type=C&electionDate=11-3-2026). As of 11/11/2026, this is unofficial data. The official data will be posted on 11/23/2026.
